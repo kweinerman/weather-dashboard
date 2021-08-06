@@ -1,0 +1,62 @@
+*{
+    background-color: grey;
+}
+h1{
+    margin-top: -2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-weight: 400;
+    color: white;
+}
+p, a{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+h3, h4, h5{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: white;
+}
+.jumbotron{
+    background-color: grey;
+    color: white;
+    height: 4rem;
+    margin-bottom: 0px;
+}
+.green{
+    border-radius: 6px;
+    background-color: lightgreen;
+    padding: 5px;
+    color: white;
+}
+.moderate{
+    border-radius: 6px;
+    background-color: orange;
+    padding: 5px;
+    color: black;
+}
+.high{
+    border-radius: 6px;
+    background-color: red;
+    padding: 5px;
+    color: black;
+}
+.very-high{
+    border-radius: 6px;
+    background-color: violet;
+    padding: 5px;
+    color: white;
+}
+.extreme{
+    border-radius: 6px;
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
+.searchCol{
+    height: 100vh;
+    background-color: grey;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    margin-right: -1rem;
+}
